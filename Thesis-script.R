@@ -2,8 +2,10 @@
 # Loading Short LEA Peptides on Different Nanoparticle Systems: Characterization and Impact on Plant Stress Tolerance
 # Biological Functions Engineering, Kyushu Institute of Technology, Japan
 # Author: Ahmed Mustafa Kamel Saber
-# The data used in this script are provided upon formal requests to 
-# [saber.ahmed-mustafa818@mail.kyutech.jp] or [ahmedmkamel.research@gmail.com]
+# Supervisor: Dr. Shinya Ikeno
+# The data used in this script is provided upon formal requests to 
+# [saber.ahmed-mustafa818@mail.kyutech.jp] or [ahmedmkamel.research@gmail.com] and
+# [ikeno@life.kyutech.jp]
 # Required Packages ----
 library(ggplot2)
 library(dplyr)
